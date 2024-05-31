@@ -155,6 +155,21 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
+    <tr>
+  <td>
+    <a href="https://www.overwatchdata.ai/" target="_blank">Overwatch Data's Free Cyber Pulse Feed</a>
+  </td>
+<td>
+    Overwatch Data provides personalized threat intelligence feeds from news, social media and darkweb sources. 
+    Then uses AI to organize and provide context. 
+    
+    The Free Overwatch Cyber Pulse tool provides threat analysts
+     1.  feed of hacks, breaches, malware and vulnerabilities from a mix of sources including darkweb leaks sites, threat intel blogs, and security social media</li>
+     2. A perplexity like chatbot to chat with the cyber feed data or with the broader, news, social media and darkweb.</li>
+ 
+    Signup is available at https://bit.ly/overwatch-signup
+  </td>
+</tr>
 <tr>
         <td>
             <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
